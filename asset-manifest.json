@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CIS453L-CourseProject/static/css/main.9bbb3903.chunk.css",
+    "main.js": "/CIS453L-CourseProject/static/js/main.9c33cf44.chunk.js",
+    "main.js.map": "/CIS453L-CourseProject/static/js/main.9c33cf44.chunk.js.map",
+    "runtime-main.js": "/CIS453L-CourseProject/static/js/runtime-main.806a6741.js",
+    "runtime-main.js.map": "/CIS453L-CourseProject/static/js/runtime-main.806a6741.js.map",
+    "static/js/2.ccbb68ef.chunk.js": "/CIS453L-CourseProject/static/js/2.ccbb68ef.chunk.js",
+    "static/js/2.ccbb68ef.chunk.js.map": "/CIS453L-CourseProject/static/js/2.ccbb68ef.chunk.js.map",
+    "index.html": "/CIS453L-CourseProject/index.html",
+    "precache-manifest.6ccd23d309e5b22c85eed38326d28ca8.js": "/CIS453L-CourseProject/precache-manifest.6ccd23d309e5b22c85eed38326d28ca8.js",
+    "service-worker.js": "/CIS453L-CourseProject/service-worker.js",
+    "static/css/main.9bbb3903.chunk.css.map": "/CIS453L-CourseProject/static/css/main.9bbb3903.chunk.css.map",
+    "static/js/2.ccbb68ef.chunk.js.LICENSE.txt": "/CIS453L-CourseProject/static/js/2.ccbb68ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.806a6741.js",
+    "static/js/2.ccbb68ef.chunk.js",
+    "static/css/main.9bbb3903.chunk.css",
+    "static/js/main.9c33cf44.chunk.js"
+  ]
+}
