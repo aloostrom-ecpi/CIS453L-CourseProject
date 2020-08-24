@@ -2,7 +2,7 @@
   "name": "carvana",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aloostrom-ecpi.github.io/CIS453L-CourseProject/",
+  "homepage": "https://aloostrom-ecpi.github.io/cis453l-courseproject/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
