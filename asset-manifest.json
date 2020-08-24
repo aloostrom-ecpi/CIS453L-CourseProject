@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CIS453L-CourseProject/static/css/main.9bbb3903.chunk.css",
-    "main.js": "/CIS453L-CourseProject/static/js/main.9c33cf44.chunk.js",
-    "main.js.map": "/CIS453L-CourseProject/static/js/main.9c33cf44.chunk.js.map",
-    "runtime-main.js": "/CIS453L-CourseProject/static/js/runtime-main.806a6741.js",
-    "runtime-main.js.map": "/CIS453L-CourseProject/static/js/runtime-main.806a6741.js.map",
-    "static/js/2.ccbb68ef.chunk.js": "/CIS453L-CourseProject/static/js/2.ccbb68ef.chunk.js",
-    "static/js/2.ccbb68ef.chunk.js.map": "/CIS453L-CourseProject/static/js/2.ccbb68ef.chunk.js.map",
-    "index.html": "/CIS453L-CourseProject/index.html",
-    "precache-manifest.6ccd23d309e5b22c85eed38326d28ca8.js": "/CIS453L-CourseProject/precache-manifest.6ccd23d309e5b22c85eed38326d28ca8.js",
-    "service-worker.js": "/CIS453L-CourseProject/service-worker.js",
-    "static/css/main.9bbb3903.chunk.css.map": "/CIS453L-CourseProject/static/css/main.9bbb3903.chunk.css.map",
-    "static/js/2.ccbb68ef.chunk.js.LICENSE.txt": "/CIS453L-CourseProject/static/js/2.ccbb68ef.chunk.js.LICENSE.txt"
+    "main.css": "/cis453l-courseproject/static/css/main.9bbb3903.chunk.css",
+    "main.js": "/cis453l-courseproject/static/js/main.9c33cf44.chunk.js",
+    "main.js.map": "/cis453l-courseproject/static/js/main.9c33cf44.chunk.js.map",
+    "runtime-main.js": "/cis453l-courseproject/static/js/runtime-main.2b380639.js",
+    "runtime-main.js.map": "/cis453l-courseproject/static/js/runtime-main.2b380639.js.map",
+    "static/js/2.ccbb68ef.chunk.js": "/cis453l-courseproject/static/js/2.ccbb68ef.chunk.js",
+    "static/js/2.ccbb68ef.chunk.js.map": "/cis453l-courseproject/static/js/2.ccbb68ef.chunk.js.map",
+    "index.html": "/cis453l-courseproject/index.html",
+    "precache-manifest.cd7b1658f9a6bdfcf047998d9fd56d81.js": "/cis453l-courseproject/precache-manifest.cd7b1658f9a6bdfcf047998d9fd56d81.js",
+    "service-worker.js": "/cis453l-courseproject/service-worker.js",
+    "static/css/main.9bbb3903.chunk.css.map": "/cis453l-courseproject/static/css/main.9bbb3903.chunk.css.map",
+    "static/js/2.ccbb68ef.chunk.js.LICENSE.txt": "/cis453l-courseproject/static/js/2.ccbb68ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.806a6741.js",
+    "static/js/runtime-main.2b380639.js",
     "static/js/2.ccbb68ef.chunk.js",
     "static/css/main.9bbb3903.chunk.css",
     "static/js/main.9c33cf44.chunk.js"
