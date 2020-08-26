@@ -16,6 +16,7 @@ class Sell extends Component {
           so we can make the best offer for your car. 
         </p>
         <table>
+          <tbody>
           <tr>
             <td>Your Name: </td>
             <td><textarea rows="1" cols="25" placeholder="First and Last Name"></textarea></td>
@@ -48,6 +49,7 @@ class Sell extends Component {
             <td>I want to trade <input type="checkbox"></input></td>
             <td><button>Submit</button></td>
           </tr>
+          </tbody>
         </table>
         
       </div>

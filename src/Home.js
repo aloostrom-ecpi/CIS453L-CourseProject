@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import homeImg from './images/homeImage.png';
  
 class Home extends Component {
   render() {
@@ -24,6 +25,7 @@ class Home extends Component {
             Just bring your car into one of our many dealerships nationwide
             for a free repair, no questions asked.
         </p>
+        <img src={homeImg} className="center" alt="Happy Owner"/>
       </div>
     );
   }
