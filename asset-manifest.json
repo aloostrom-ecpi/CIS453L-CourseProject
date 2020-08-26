@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/cis453l-courseproject/static/css/main.9bbb3903.chunk.css",
-    "main.js": "/cis453l-courseproject/static/js/main.9c33cf44.chunk.js",
-    "main.js.map": "/cis453l-courseproject/static/js/main.9c33cf44.chunk.js.map",
+    "main.css": "/cis453l-courseproject/static/css/main.f13dd52c.chunk.css",
+    "main.js": "/cis453l-courseproject/static/js/main.f8b5ff96.chunk.js",
+    "main.js.map": "/cis453l-courseproject/static/js/main.f8b5ff96.chunk.js.map",
     "runtime-main.js": "/cis453l-courseproject/static/js/runtime-main.2b380639.js",
     "runtime-main.js.map": "/cis453l-courseproject/static/js/runtime-main.2b380639.js.map",
-    "static/js/2.ccbb68ef.chunk.js": "/cis453l-courseproject/static/js/2.ccbb68ef.chunk.js",
-    "static/js/2.ccbb68ef.chunk.js.map": "/cis453l-courseproject/static/js/2.ccbb68ef.chunk.js.map",
+    "static/js/2.b042c8e4.chunk.js": "/cis453l-courseproject/static/js/2.b042c8e4.chunk.js",
+    "static/js/2.b042c8e4.chunk.js.map": "/cis453l-courseproject/static/js/2.b042c8e4.chunk.js.map",
     "index.html": "/cis453l-courseproject/index.html",
-    "precache-manifest.cd7b1658f9a6bdfcf047998d9fd56d81.js": "/cis453l-courseproject/precache-manifest.cd7b1658f9a6bdfcf047998d9fd56d81.js",
+    "precache-manifest.54038ccae53af4f575c05c07c8ef0a10.js": "/cis453l-courseproject/precache-manifest.54038ccae53af4f575c05c07c8ef0a10.js",
     "service-worker.js": "/cis453l-courseproject/service-worker.js",
-    "static/css/main.9bbb3903.chunk.css.map": "/cis453l-courseproject/static/css/main.9bbb3903.chunk.css.map",
-    "static/js/2.ccbb68ef.chunk.js.LICENSE.txt": "/cis453l-courseproject/static/js/2.ccbb68ef.chunk.js.LICENSE.txt"
+    "static/css/main.f13dd52c.chunk.css.map": "/cis453l-courseproject/static/css/main.f13dd52c.chunk.css.map",
+    "static/js/2.b042c8e4.chunk.js.LICENSE.txt": "/cis453l-courseproject/static/js/2.b042c8e4.chunk.js.LICENSE.txt",
+    "static/media/bmw8er.png": "/cis453l-courseproject/static/media/bmw8er.634847fa.png",
+    "static/media/fusion.png": "/cis453l-courseproject/static/media/fusion.bcac4328.png",
+    "static/media/homeImage.png": "/cis453l-courseproject/static/media/homeImage.a4daa9bc.png",
+    "static/media/rav4.png": "/cis453l-courseproject/static/media/rav4.fe3d2082.png",
+    "static/media/shelby-3821716_1920.png": "/cis453l-courseproject/static/media/shelby-3821716_1920.0b1892c2.png",
+    "static/media/silverado.png": "/cis453l-courseproject/static/media/silverado.2be8d192.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2b380639.js",
-    "static/js/2.ccbb68ef.chunk.js",
-    "static/css/main.9bbb3903.chunk.css",
-    "static/js/main.9c33cf44.chunk.js"
+    "static/js/2.b042c8e4.chunk.js",
+    "static/css/main.f13dd52c.chunk.css",
+    "static/js/main.f8b5ff96.chunk.js"
   ]
 }
