@@ -5,6 +5,7 @@ Project includes the following changes to the original app:
   <li>Project built on Single page navigation structure.</li>
   <li>Use location to enable users to see deal values in their areas.</li>
   <li>Implemented a form to allow users to start selling or trading.</li>
+  <li>Added buttons to cycle through search results.</li>
 </ul>
 
 ## GitHub Pages Hosting
