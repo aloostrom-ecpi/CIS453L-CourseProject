@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cis453l-courseproject/static/css/main.f13dd52c.chunk.css",
-    "main.js": "/cis453l-courseproject/static/js/main.f8b5ff96.chunk.js",
-    "main.js.map": "/cis453l-courseproject/static/js/main.f8b5ff96.chunk.js.map",
+    "main.css": "/cis453l-courseproject/static/css/main.c462152c.chunk.css",
+    "main.js": "/cis453l-courseproject/static/js/main.6a5873ab.chunk.js",
+    "main.js.map": "/cis453l-courseproject/static/js/main.6a5873ab.chunk.js.map",
     "runtime-main.js": "/cis453l-courseproject/static/js/runtime-main.2b380639.js",
     "runtime-main.js.map": "/cis453l-courseproject/static/js/runtime-main.2b380639.js.map",
-    "static/js/2.b042c8e4.chunk.js": "/cis453l-courseproject/static/js/2.b042c8e4.chunk.js",
-    "static/js/2.b042c8e4.chunk.js.map": "/cis453l-courseproject/static/js/2.b042c8e4.chunk.js.map",
+    "static/js/2.98f4e50c.chunk.js": "/cis453l-courseproject/static/js/2.98f4e50c.chunk.js",
+    "static/js/2.98f4e50c.chunk.js.map": "/cis453l-courseproject/static/js/2.98f4e50c.chunk.js.map",
     "index.html": "/cis453l-courseproject/index.html",
-    "precache-manifest.54038ccae53af4f575c05c07c8ef0a10.js": "/cis453l-courseproject/precache-manifest.54038ccae53af4f575c05c07c8ef0a10.js",
+    "precache-manifest.dc363249b2318a4f2f862c65c9635be1.js": "/cis453l-courseproject/precache-manifest.dc363249b2318a4f2f862c65c9635be1.js",
     "service-worker.js": "/cis453l-courseproject/service-worker.js",
-    "static/css/main.f13dd52c.chunk.css.map": "/cis453l-courseproject/static/css/main.f13dd52c.chunk.css.map",
-    "static/js/2.b042c8e4.chunk.js.LICENSE.txt": "/cis453l-courseproject/static/js/2.b042c8e4.chunk.js.LICENSE.txt",
+    "static/css/main.c462152c.chunk.css.map": "/cis453l-courseproject/static/css/main.c462152c.chunk.css.map",
+    "static/js/2.98f4e50c.chunk.js.LICENSE.txt": "/cis453l-courseproject/static/js/2.98f4e50c.chunk.js.LICENSE.txt",
     "static/media/bmw8er.png": "/cis453l-courseproject/static/media/bmw8er.634847fa.png",
     "static/media/fusion.png": "/cis453l-courseproject/static/media/fusion.bcac4328.png",
     "static/media/homeImage.png": "/cis453l-courseproject/static/media/homeImage.a4daa9bc.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2b380639.js",
-    "static/js/2.b042c8e4.chunk.js",
-    "static/css/main.f13dd52c.chunk.css",
-    "static/js/main.f8b5ff96.chunk.js"
+    "static/js/2.98f4e50c.chunk.js",
+    "static/css/main.c462152c.chunk.css",
+    "static/js/main.6a5873ab.chunk.js"
   ]
 }
