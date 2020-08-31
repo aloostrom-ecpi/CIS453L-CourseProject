@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import fusion from './images/fusion.png';
+import { Link } from 'react-router-dom';
  
 class carFusion extends Component {
   render() {
@@ -47,6 +48,18 @@ class carFusion extends Component {
               <tr className="infoTableRow">
                 <td className="tableKey">Stock #</td>
                 <td className="tableValue">FUS-87992</td>
+              </tr>
+              <tr>
+                <td className="prevButton">
+                  <Link to="/carSilverado">
+                    <button type="button" style={{background: '#4DABD4'}}>Previous</button>
+                  </Link>
+                </td>
+                <td className="nextButton">
+                  <Link to="/car8er">
+                    <button type="button" style={{background: '#4DABD4'}}>Next</button>
+                  </Link>
+                </td>
               </tr>
             </tbody>
           </table>

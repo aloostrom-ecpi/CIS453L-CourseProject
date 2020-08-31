@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import shelby from './images/shelby-3821716_1920.png';
+import { Link } from 'react-router-dom';
  
 class carShelby extends Component {
   render() {
@@ -47,6 +48,14 @@ class carShelby extends Component {
               <tr className="infoTableRow">
                 <td className="tableKey">Stock #</td>
                 <td className="tableValue">SLB-56775</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td className="nextButton">
+                <Link to="/carRav4">
+                  <button type="button" style={{background: '#4DABD4'}}>Next</button>
+                </Link>
+                </td>
               </tr>
             </tbody>
           </table>

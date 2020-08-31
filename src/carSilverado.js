@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import chevy from './images/silverado.png';
+import { Link } from 'react-router-dom';
  
 class carSilverado extends Component {
   render() {
@@ -47,6 +48,18 @@ class carSilverado extends Component {
               <tr className="infoTableRow">
                 <td className="tableKey">Stock #</td>
                 <td className="tableValue">SLV-12897</td>
+              </tr>
+              <tr>
+                <td className="prevButton">
+                  <Link to="/carRav4">
+                    <button type="button" style={{background: '#4DABD4'}}>Previous</button>
+                  </Link>
+                </td>
+                <td className="nextButton">
+                  <Link to="/carFusion">
+                    <button type="button" style={{background: '#4DABD4'}}>Next</button>
+                  </Link>
+                </td>
               </tr>
             </tbody>
           </table>
