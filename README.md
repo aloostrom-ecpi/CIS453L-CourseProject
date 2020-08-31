@@ -1,3 +1,16 @@
+CIS453L Course Project Unit 5 - Alex Loostrom
+
+Project includes the following changes to the original app:
+<ul>
+  <li>Project built on Single page navigation structure.</li>
+  <li>Use location to enable users to see deal values in their areas.</li>
+  <li>Implemented a form to allow users to start selling or trading.</li>
+  <li>Added buttons to cycle through search results.</li>
+</ul>
+
+## GitHub Pages Hosting
+This project is hosted live at https://aloostrom-ecpi.github.io/cis453l-courseproject/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
